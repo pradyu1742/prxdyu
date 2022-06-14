@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prxdyu
-- 👀 I’m interested in Webdevelopment and ML
+- 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning Webdevelopment
 - 💞️ I’m looking to collaborate on ML
-- 📫 Contact me @prxdyu@gmail.com
+- 📫 Contact me @pradyu1742@gmail.com
 
 <!---
 prxdyu/prxdyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
